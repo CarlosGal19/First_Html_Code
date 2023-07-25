@@ -1,0 +1,19 @@
+img{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+
+.main-container{
+    
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.text{
+    padding: 0 5px;
+}
